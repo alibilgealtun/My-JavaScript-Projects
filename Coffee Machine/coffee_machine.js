@@ -72,7 +72,7 @@ function fill(){
 
 function askPassword(){
     password=input("What is the password of the machine?")
-    if (password==="ZUAynVmB"){
+    if (password==="ILoveCoffee"){
         console.log("Password is correct. Login successful.")
         return true;
     }
